@@ -5,13 +5,13 @@
 
 - 🥔 I trained my own YOLO. This is [PotatoCV](https://github.com/EddieeBOB/potatocv)
 
-- 🍅 I love using microcontrollers. -> [TomatoVision](https://github.com/EddieeBOB/simple-color-detection)
+- 🍅 I love using microcontrollers. [TomatoVision](https://github.com/EddieeBOB/simple-color-detection)
 
-- 🎞️ This is my photography portfolio [https://photoframes.me/gallery](https://photoframes.me/gallery)
+- 🎞️ This is my photography [portfolio](https://photoframes.me/gallery)
 
-- 🗞️ This is my blog. [https://frames.works/](https://frames.works/)
+- 🗞️ Here is my [blog](https://frames.works/)
 
-- 🧾 This is my resume. [https://drive.google.com/file/d/15t5ylNfsis1ohuXpxITOkpjthqP90D2L/view?usp=sharing](https://drive.google.com/file/d/15t5ylNfsis1ohuXpxITOkpjthqP90D2L/view?usp=sharing)
+- 🧾 This is my [Resume](https://drive.google.com/file/d/15t5ylNfsis1ohuXpxITOkpjthqP90D2L/view?usp=sharing).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eddiemanheilam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eddielam1296@gmail.com) 
