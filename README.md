@@ -9,7 +9,7 @@
 
 - 🎞️ This is my photography [portfolio](https://photoframes.me/gallery).
 
-- 🗞️ Here is my [blog](https://frames.works/).
+- 🗞️ Here is my [blog](https://eddielam.tech).
 
 - 🧾 This is my [resume](https://drive.google.com/file/d/15t5ylNfsis1ohuXpxITOkpjthqP90D2L/view?usp=sharing).
 
