@@ -5,7 +5,7 @@
 
 - 🥔 I trained my own YOLO. This is [PotatoCV](https://github.com/EddieeBOB/potatocv).
 
-- 🍅 I love using microcontrollers. [TomatoVision](https://github.com/EddieeBOB/simple-color-detection)
+- This is my classic TODO-List (with a slight twist) [Journal](https://github.com/EddieeBOB/journal-gui)
 
 - 🎞️ This is my photography [portfolio](https://photoframes.me/gallery).
 
